@@ -1,4 +1,4 @@
-echo 'init'
+echo 'install zsh'
 
 # Oh My Zsh
 yum -y install zsh
