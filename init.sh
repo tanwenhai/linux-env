@@ -1,3 +1,4 @@
+#!/bin/env bash
 echo 'install zsh'
 
 # Oh My Zsh
