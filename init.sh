@@ -1,4 +1,7 @@
 #!/bin/env bash
+echo 'instlal linuxbrew'
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh)"
+
 echo 'install zsh'
 
 # Oh My Zsh
